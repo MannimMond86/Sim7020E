@@ -12,4 +12,6 @@ https://bluetoothle.wiki/mesh
 
 ## Bluetooth Settings:
 https://www.instructables.com/Control-Bluetooth-LE-Devices-From-A-Raspberry-Pi/
+http://blog.wenzlaff.de/?p=15054 
+
 http://blog.wenzlaff.de/?p=15054
