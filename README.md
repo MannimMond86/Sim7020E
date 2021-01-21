@@ -16,3 +16,5 @@ https://techship.com/downloads/simcom-sim7020e-1752b11sim7020e-firmware-and-rele
 
 
 https://www.waveshare.com/w/upload/e/ee/SIM7020_Series_HTTP_Application_Note_V1.02.pdf
+
+https://www.vidarholen.net/contents/wordcount/
