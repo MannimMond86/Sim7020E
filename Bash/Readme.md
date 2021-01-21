@@ -1,3 +1,7 @@
+## Everything to Scripts 4 AutoStart
+
+http://www.netzmafia.de/skripten/hardware/RasPi/RasPi_Auto.html
+
 first of all create the script for me it's startup_file.sh
 
 move startup_file.sh to /etc/init.d/
