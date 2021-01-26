@@ -1,7 +1,16 @@
-sudo systemctl enable bluetooth
+
 sudo apt-get install blue-tools
+
+--------------------------------------------------------
+sudo systemctl enable bluetooth
+sudo systemctl restart bluetooth
+systemctl status bluetooth
+
+
+--------------------------------------------------------
 hcitool scan
 bt-devices -l
+
 
 
 bluetoothctl
@@ -12,3 +21,7 @@ scann off
 trust MAC
 pair MAC
 connect MAC
+power on/off
+quit
+devices
+
