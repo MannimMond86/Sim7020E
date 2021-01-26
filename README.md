@@ -5,7 +5,7 @@
 ## raspberrypi4g-Sim
 Modul Simcom 7020€ Empty
 
-## raspberrypi8G-Base
+## raspberrypi8G-Base ( Visual Studio Code )
 Raspberry Pi Pino ( 3 pic )
 JDY-23 Bluetooth Modul
 
