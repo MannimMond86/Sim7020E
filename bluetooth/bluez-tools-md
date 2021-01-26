@@ -1,0 +1,13 @@
+sudo apt-get install blue-tools
+hcitool scan
+bt-devices -l
+
+
+bluetoothctl
+agent on
+scan on
+scann off
+
+trust MAC
+pair MAC
+connect MAC
