@@ -1,3 +1,4 @@
+sudo systemctl enable bluetooth
 sudo apt-get install blue-tools
 hcitool scan
 bt-devices -l
