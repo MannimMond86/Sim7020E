@@ -1,25 +1,25 @@
 # Sim7020E Project
 
-## Hardware 
-# raspberrypi4g-Sim
-Modul Simcom 7020€
+# Hardware 
+## raspberrypi4g-Sim
+Modul Simcom 7020€ Empty
 
-# raspberrypi8G-Base
+## raspberrypi8G-Base
 Raspberry Pi Pino ( 3 pic )
 
-# raspberrypiZero-Sim
-Modul Simcom 7020€
+## raspberrypiZero-Sim
+Modul Simcom 7020€ with Simcard
  
-# raspberrypiZero-Radar
+## raspberrypiZero-Radar
 Microwave Motion Sensor (http://www.cqrobot.wiki/index.php/Microwave_Motion_Sensor)
 
-# raspberrypiZero2
+## raspberrypiZero2
 
 
 
 
 
-
+########################################################################################
 
 https://xod.io/libs/gabbapeople/sim7020/
 
